@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.upper{
+    background-color: antiquewhite;
+    height: auto;
+    margin: 0;
+    padding: 0px;
+    border: 15px solid rgb(255, 238, 0);
+}
+#habtc{
+    text-align: right;
+    color: rgb(0, 17, 255);
+    font-size: larger;
+}
+#habtc a{
+          text-decoration: none;
+}
+#head{
+    color: rgb(255, 72, 0);
+    font-size: 40px;
+}
+#army{
+    font-size: 56px;
+}
+#todayarticle{
+font-size: 30px;
+font-family: 'Playfair Display', serif;
+font-style: italic;
+color: rgb(5, 4, 36);
+text-align: justify;
+margin: 10px;
+padding: 5px;
+}
+.headc{
+    background-color: cyan;
+    margin: 0;
+    padding: 0px;
+    border: 15px solid rgb(255, 238, 0);
+    height: auto;
+}
