@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal&family=Nanum+Myeongjo&display=swap');
 .upper{
     background-color: antiquewhite;
     height: auto;
     margin: 0;
     padding: 0px;
-    border: 15px solid rgb(255, 238, 0);
+    border: 15px solid rgb(0, 255, 0);
 }
 #habtc{
     text-align: right;
@@ -13,27 +16,45 @@
 }
 #habtc a{
           text-decoration: none;
+          font-size: 30px;
+          font-family: 'Playfair Display', serif;
 }
 #head{
     color: rgb(255, 72, 0);
     font-size: 40px;
+    font-family: 'Luxurious Roman', cursive;
 }
 #army{
     font-size: 56px;
+    font-family: 'Nanum Myeongjo', serif;
 }
 #todayarticle{
 font-size: 30px;
-font-family: 'Playfair Display', serif;
+font-family: 'Nanum Myeongjo', serif;
 font-style: italic;
-color: rgb(5, 4, 36);
+color: rgb(77, 0, 139);
 text-align: justify;
-margin: 10px;
-padding: 5px;
 }
 .headc{
     background-color: cyan;
     margin: 0;
     padding: 0px;
-    border: 15px solid rgb(255, 238, 0);
+    border: 15px solid rgb(0, 255, 0);
     height: auto;
+}
+footer{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(251, 255, 0, 0.521);
+    height: auto;
+    font-family: 'Metal', cursive;
+}
+#copyright{
+    text-align: right;
+    color: rgb(255, 38, 0);
+}
+#todayfont{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chocolate;
 }
