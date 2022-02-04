@@ -62,3 +62,7 @@ footer{
     text-decoration: none;
     color: rgb(255, 72, 0);
 }
+#todayarticle a{
+    text-decoration: none;
+    color: rgb(77, 0, 139);
+}
